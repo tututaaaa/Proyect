@@ -1,4 +1,3 @@
-
 import { StyledBadge } from '@mui/material/styles';
 import IconButton from '@mui/material/IconButton';
 import ShoppingCartIcon from "@mui/material/ShoppingCartIcon"
