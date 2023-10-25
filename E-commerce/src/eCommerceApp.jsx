@@ -1,15 +1,7 @@
-
-
-import './App.css'
-
-function App() {
-
-
+import { Card } from "./components/Card"
+export const eCommerceApp = () => {
   return (
-    <>
-      
-    </>
+    <Card/>
   )
 }
-
-export default App
+export default eCommerceApp
